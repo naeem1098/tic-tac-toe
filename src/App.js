@@ -8,7 +8,6 @@ class App extends Component {
         return (
             <div className='main'>
                 <h1>Tic Tac Toe</h1>
-                
                 <Board />
             </div>
         )
